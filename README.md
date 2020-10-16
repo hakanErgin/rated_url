@@ -11,4 +11,4 @@ user rates urls, ratings show on search results
 
 - user does a google search
   urls of the results rendered are checked with db
-- results that have been rated before renders rating
+- results that have been rated before renders ratings
