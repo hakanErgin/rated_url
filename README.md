@@ -13,5 +13,5 @@ user rates urls, ratings show on search results
   urls of the results rendered are checked with db
 - results that have been rated before renders ratings
 
-![search results](images/mock_screenshots/search_results.jpg)
+
 ![random page](images/mock_screenshots/random_page.jpg)
